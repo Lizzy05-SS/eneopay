@@ -1,0 +1,22 @@
+code {
+    background-color: #2db34a;
+    border-radius: 6px;
+    color: #fff;
+    display: block;
+    font: 14px/24px "source code pro" inconsolate;
+    padding: 24px 15px;
+    text-align: center;
+}
+
+.dremma {
+    text-align: right;
+    margin-bottom: 1em;
+    margin-right: 25em;
+}
+
+.drlizzy {
+    text-align: right;
+    margin-top: 1em;
+    margin-right: 25em;
+
+}
