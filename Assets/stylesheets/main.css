@@ -1,0 +1,23 @@
+body{font-family:"Times New Romans",serif;}
+p{font-size: 12px;}
+p:first-letter{text-transform: capitalize;}
+code {
+    background-color: cyan;
+    border-radius: 10px;
+    color: beige;
+    font: size 14px/24px;
+    padding: 24px 15px;
+    text-align: center;}
+    header,section,aside,footer{
+        margin:0 1.05%  24px 1.5%;
+    }
+    footer{margin: bottom 0;}
+    section{
+        margin: 0 1.5%;
+        width: 63%;
+        float:right ;}
+        aside{
+
+        }
+
+
